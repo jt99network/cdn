@@ -1,1 +1,1 @@
-# Buape CDN
+# CDN
